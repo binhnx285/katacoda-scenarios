@@ -29,7 +29,8 @@
     },
     "environment": {
       "hideintro": true,
-      "hidefinish": true
+      "hidefinish": true,
+      "uilayout": "terminal"
     },
     "backend": {
         "imageid": "git"
