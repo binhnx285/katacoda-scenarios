@@ -26,5 +26,12 @@
       "finish": {
         "text": "finish.md"
       }
+    },
+    "environment": {
+      "hideintro": true,
+      "hidefinish": true
+    },
+    "backend": {
+        "imageid": "git"
     }
   }
