@@ -30,7 +30,7 @@
     "environment": {
       "hideintro": true,
       "hidefinish": true,
-      "uilayout": "terminal",
+      "uilayout": false,
       "showdashboard": false
     },
     "backend": {
