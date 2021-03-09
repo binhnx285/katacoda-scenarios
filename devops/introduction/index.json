@@ -30,7 +30,8 @@
     "environment": {
       "hideintro": true,
       "hidefinish": true,
-      "uilayout": "terminal"
+      "uilayout": "terminal",
+      "showdashboard": false
     },
     "backend": {
         "imageid": "git"
