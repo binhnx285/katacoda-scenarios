@@ -1,0 +1,12 @@
+{
+    "courses": [
+      {
+        "title": "Tìm hiểu về DevOps",
+        "description": "Bài hướng dẫn về DevOps bằng GitLab, Docker và Kubernetes!",
+        "id": "devops"
+      }
+    ],
+    "scenarios": [
+      
+    ]
+  }
