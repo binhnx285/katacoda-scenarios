@@ -4,6 +4,21 @@
         "title": "Tìm hiểu về DevOps",
         "description": "Bài hướng dẫn về DevOps bằng GitLab, Docker và Kubernetes!",
         "id": "devops"
+      },
+      {
+        "title": "Tìm hiểu về Gitlab",
+        "description": "Bài hướng dẫn về DevOps bằng GitLab, Docker và Kubernetes!",
+        "id": "gitlab"
+      },
+      {
+        "title": "Tìm hiểu về Docker",
+        "description": "Bài hướng dẫn về DevOps bằng GitLab, Docker và Kubernetes!",
+        "id": "docker"
+      },
+      {
+        "title": "Tìm hiểu về Kubernetes",
+        "description": "Bài hướng dẫn về DevOps bằng GitLab, Docker và Kubernetes!",
+        "id": "k8s"
       }
     ],
     "scenarios": [
