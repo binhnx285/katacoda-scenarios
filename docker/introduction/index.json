@@ -1,0 +1,39 @@
+{
+    "title": "Giới thiệu DevOps",
+    "description": "Giới thiệu tổng quan về DevOps",
+    "details": {
+      "steps": [
+        {
+          "title": "Step 1 - Pathway Files",
+          "text": "step1.md"
+        },
+        {
+          "title": "Step 2 - Reusing Scenarios",
+          "text": "step2.md"
+        },
+        {
+          "title": "Step 3 - Using katacoda CLI to create a course",
+          "text": "step3.md"
+        },
+        {
+          "title": "Step 4 - Using katacoda CLI to add existing scenarios to a course",
+          "text": "step4.md"
+        }
+      ],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "hideintro": true,
+      "hidefinish": true,
+      "uilayout": false,
+      "showdashboard": false
+    },
+    "backend": {
+        "imageid": "git"
+    }
+  }

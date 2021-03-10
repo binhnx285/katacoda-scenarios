@@ -1,0 +1,12 @@
+{
+    "title": "Tìm hiểu về DevOps",
+    "description": "Bài hướng dẫn về DevOps bằng GitLab, Docker và Kubernetes!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "introduction",
+        "title": "Giới thiệu DevOps",
+        "description": "Giới thiệu tổng quan về DevOps"
+      }
+    ]
+  }
